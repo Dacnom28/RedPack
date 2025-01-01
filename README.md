@@ -3,6 +3,8 @@ RedPack is an exclusive repository containing a collection of privately develope
 ![Logo](https://github.com/Drepcon/RedPack/blob/main/RedPack~2.jpg)
 
 
+###################################
 All files are password protected.
 
 password: R3dP@cX
+###################################
