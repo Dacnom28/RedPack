@@ -5,6 +5,7 @@ RedPack is an exclusive repository containing a collection of privately develope
 
 
 
+# Password:
 • All files are password protected.
 
 • password: R3dP@cX
