@@ -3,4 +3,4 @@ You can use, edit and more.
 
 All files are password protected.
 
-Password: R3P@cK
+Password: R3dP@cX
