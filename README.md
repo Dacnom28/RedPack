@@ -2,7 +2,7 @@
 http://x9vtr4b6jkdmqwe7rnfdoeu2p.onion
 
 ---  
-### **RedPack**  
+# RedPack 
 **RedPack** is a repository containing a collection of simple modules for malware development and experimentation. These modules are designed to be easy to use, modify, and integrate for various exploratory needs.  
 
 # Key features:  
